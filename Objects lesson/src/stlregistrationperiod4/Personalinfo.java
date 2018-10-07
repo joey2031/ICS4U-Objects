@@ -8,7 +8,7 @@ public class Personalinfo {
 
     public Personalinfo(String firstName, String lastName, String adress, String email, String phonenumber) {
         this.firstName = "Eric";
-        this.lastName = "Assal";
+        this.lastName = "bob";
         this.adress = "123 back pack";
         this.email = "123@b.ca";
         this.phonenumber = "123-456-7890";
